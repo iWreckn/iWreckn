@@ -1,9 +1,68 @@
-- 👋 Hi, I’m @iWreckn
-- 👀 I’m interested in becoming a cloud security engineer.
-- 🌱 I’m currently learning python and terraform.
-- 💞️ I’m looking to collaborate on anything you'd love to have me on.
-- ⚡ Fun fact: hmm
-<!---
-iWreckn/iWreckn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Jimmy! 👋
+
+![Profile views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202024-brightgreen)
+
+Also known as **iWreckn** 🤠💻, I'm on an exciting journey becoming a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
+
+## 🛠 What I Do
+
+### Cloud Security & Infrastructure
+- Specialize in **GCP**, **Azure**, and **private cloud** environments 🌥️
+- Develop and enforce security policies across **Azure Sentinel**, **Prisma Cloud**, and native cloud services 🛡️
+- Build secure test environments using **Terraform** and automation scripts 🧱
+- Manage **Prisma Cloud** runtime policies for cloud-native workloads 🔒
+
+## 📚 Current Focus
+
+I'm constantly learning and growing in the cloud security space:
+- Enhancing my **Python** skills for security automation 🐍
+- Diving deep into **Docker**, **Kubernetes**, and **CI/CD** practices 🔄
+- Pursuing WGU's **Cloud Computing Bachelor's** (Azure track) 📘
+
+## 🧰 Tech Stack
+
+```text
+Cloud Platforms    │ Azure, GCP
+Security Tools     │ Prisma Cloud, Azure Sentinel, Palo Alto
+Infrastructure     │ Terraform, Docker, Kubernetes
+Programming        │ Python, Bash
+Networking        │ Traditional IT & Cloud Networking
+```
+
+## 🎯 Career Journey
+
+```mermaid
+graph LR
+    A[Commercial Driver] -->|12 Years| B[Career Switch]
+    B -->|2024| C[Cloud Security]
+    C -->|Future| D[Security Architect]
+    D -->|Vision| E[CISO]
+```
+
+## 🌟 Fun Facts
+
+- 🚛 Transitioned from **12 years as a truck driver** to cloud security in 2024
+- 🎤 Recently presented at a **NIST conference**, recognized by Google Grow with Me
+- 📸 Photography enthusiast and comedy lover
+- 👨‍👦 Proud dad raising a future ethical hacker!
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://img.shields.io/badge/GitHub%20Stats-Coming%20Soon-yellow)
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
+
+### 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section can be updated automatically using GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+<p align="center">
+  <i>"Stay curious, stay humble, and always keep hacking!"</i> 💻
+</p>
