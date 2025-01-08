@@ -3,7 +3,7 @@
 ![Profile views](https://img.shields.io/badge/Profile%20Views-0-blue)
 ![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202024-brightgreen)
 
-I'm on an exciting journey becoming a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
+I'm ~~trying to become~~ a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
 
 ## 🛠 What I Do
 
@@ -53,8 +53,7 @@ graph
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/james-minhinnett-824550238/)
 
 ### 📈 Recent Activity
 
