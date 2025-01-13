@@ -3,7 +3,7 @@
 ![Profile views](https://img.shields.io/badge/Profile%20Views-0-blue)
 ![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202024-brightgreen)
 
-I'm ~~trying to become~~ a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
+I'm ~~on my way to becoming~~ a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
 
 ## 🛠 What I Do
 
