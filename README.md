@@ -1,4 +1,4 @@
-# Hi there, I'm iWreckn ! 👋🤠💻
+## 🤠👋 Howdy there, I'm iWreckn! 👋🤠
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-0-blue)
 ![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202025-brightgreen)
@@ -24,7 +24,7 @@ I'm constantly learning and growing in the cloud security space:
 
 ```text
 Cloud Platforms    │ Azure, GCP, Private Cloud
-Security Tools     │ Prisma Cloud, Azure Sentinel, Splunk>, Palo Alto
+Security Tools     │ Prisma Cloud, Azure Sentinel, Splunk>
 Infrastructure     │ Terraform, Docker, Kubernetes
 Programming        │ Python, Bash, JavaScript 
 Networking         │ Traditional IT & Cloud Networking
