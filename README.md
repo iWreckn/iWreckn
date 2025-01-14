@@ -1,9 +1,9 @@
 # Hi there, I'm iWreckn ! 👋🤠💻
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-0-blue)
-![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202024-brightgreen)
+![Profile last updated](https://img.shields.io/badge/Last%20Updated-January%202025-brightgreen)
 
-I'm ~~on my way to becoming~~ a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible!
+I'm ~~on my way to becoming~~ a **Cloud Security Engineer** 🚀. My path from **commercial truck driving** 🚛 to **cloud security** shows that with determination, career transitions are possible! I found my passion in creating secure cloud solutions.
 
 ## 🛠 What I Do
 
@@ -42,14 +42,11 @@ graph
 
 ## 🌟 Fun Facts
 
-- 🚛 Transitioned from **12 years as a truck driver** to cloud security in 2024
-- 🎤 Recently presented at a **NIST conference**, recognized by Google Grow with Me
+- 🚛 Transitioned from **12 years as a truck driver** to cloud security!
+- 🎤 Recently presented at a **NIST conference**, & recognized by Google Grow with Me team over career transition.
 - 📸 Photography enthusiast and comedy lover
-- 👨‍👦 Proud dad raising a future ethical hacker!
+- 👨‍👦 Proud dad raising a future hacker!
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://img.shields.io/badge/GitHub%20Stats-Coming%20Soon-yellow)
 
 ## 🤝 Let's Connect!
 
@@ -63,5 +60,5 @@ graph
 
 ---
 <p align="center">
-  <i>"Stay curious, stay humble, and always keep hacking!"</i> 💻
+  <i>"Stay curious, stay humble, and always stay hacking!"</i> 💻
 </p>
